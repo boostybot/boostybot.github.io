@@ -1709,7 +1709,7 @@ body {
 .cid-rltktQJHKs {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f8f8f8;
+  background-color: #465052;
 }
 .cid-rltktQJHKs .mbr-section-subtitle {
   color: #767676;
@@ -1718,7 +1718,7 @@ body {
 }
 .cid-rltktQJHKs .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #e7e7e7;
+  background: #5b686b;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -1755,7 +1755,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #e7e7e7;
+  background-color: #5b686b;
   top: 20px;
   margin-left: -30px;
 }
@@ -1774,7 +1774,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #e7e7e7;
+  background-color: #5b686b;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -2259,7 +2259,7 @@ body {
 .cid-rltlGgcw4m {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-rltlGgcw4m .mbr-section-subtitle {
   color: #767676;
@@ -2270,17 +2270,17 @@ body {
   flex-wrap: wrap;
 }
 .cid-rltlGgcw4m .mbr-text {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rltlGgcw4m .mbr-author-desc {
   display: block;
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rltlGgcw4m .mbr-author-name {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rltlGgcw4m .mbr-testimonial .panel-item {
-  background-color: #ffffff;
+  background-color: #5b686b;
 }
 .cid-rltlGgcw4m .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -2317,7 +2317,7 @@ body {
 .cid-rltqfIZqNo {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f8f8f8;
+  background-color: #465052;
 }
 .cid-rltqfIZqNo .mbr-section-subtitle {
   color: #767676;
@@ -2326,7 +2326,7 @@ body {
 }
 .cid-rltqfIZqNo .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #e7e7e7;
+  background: #5b686b;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -2363,7 +2363,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #e7e7e7;
+  background-color: #5b686b;
   top: 20px;
   margin-left: -30px;
 }
@@ -2382,7 +2382,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #e7e7e7;
+  background-color: #5b686b;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
