@@ -1292,13 +1292,13 @@ body {
   display: none;
 }
 .cid-rltfrEbMbJ .navbar {
-  background: #ffffff;
+  background: #696b6b;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rltfrEbMbJ .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #696b6b;
 }
 .cid-rltfrEbMbJ a {
   font-style: normal;
@@ -1386,7 +1386,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rltfrEbMbJ .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #696b6b;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1709,16 +1709,16 @@ body {
 .cid-rltktQJHKs {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #465052;
+  background-color: #696b6b;
 }
 .cid-rltktQJHKs .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   text-align: center;
   font-weight: 300;
 }
 .cid-rltktQJHKs .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #5b686b;
+  background: #c1c1c1;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -1755,7 +1755,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #5b686b;
+  background-color: #c1c1c1;
   top: 20px;
   margin-left: -30px;
 }
@@ -1774,7 +1774,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #5b686b;
+  background-color: #c1c1c1;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -1793,10 +1793,16 @@ body {
     margin-right: 0 !important;
   }
 }
+.cid-rltktQJHKs .mbr-timeline-title {
+  color: #000000;
+}
+.cid-rltktQJHKs .mbr-timeline-text {
+  color: #000000;
+}
 .cid-rltfBRGAh3 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #696b6b;
 }
 @media (max-width: 767px) {
   .cid-rltfBRGAh3 .content {
@@ -1868,13 +1874,13 @@ body {
   color: #232323;
 }
 .cid-rltfrEbMbJ .navbar {
-  background: #ffffff;
+  background: #696b6b;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rltfrEbMbJ .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #696b6b;
 }
 .cid-rltfrEbMbJ a {
   font-style: normal;
@@ -1962,7 +1968,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rltfrEbMbJ .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #696b6b;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2259,7 +2265,7 @@ body {
 .cid-rltlGgcw4m {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #465052;
+  background-color: #696b6b;
 }
 .cid-rltlGgcw4m .mbr-section-subtitle {
   color: #767676;
@@ -2270,17 +2276,17 @@ body {
   flex-wrap: wrap;
 }
 .cid-rltlGgcw4m .mbr-text {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rltlGgcw4m .mbr-author-desc {
   display: block;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rltlGgcw4m .mbr-author-name {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rltlGgcw4m .mbr-testimonial .panel-item {
-  background-color: #5b686b;
+  background-color: #c1c1c1;
 }
 .cid-rltlGgcw4m .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -2317,7 +2323,7 @@ body {
 .cid-rltqfIZqNo {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #465052;
+  background-color: #696b6b;
 }
 .cid-rltqfIZqNo .mbr-section-subtitle {
   color: #767676;
@@ -2326,7 +2332,7 @@ body {
 }
 .cid-rltqfIZqNo .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #5b686b;
+  background: #c1c1c1;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -2363,7 +2369,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #5b686b;
+  background-color: #c1c1c1;
   top: 20px;
   margin-left: -30px;
 }
@@ -2382,7 +2388,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #5b686b;
+  background-color: #c1c1c1;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -2400,4 +2406,10 @@ body {
   .cid-rltqfIZqNo .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
+}
+.cid-rltqfIZqNo .mbr-timeline-title {
+  color: #000000;
+}
+.cid-rltqfIZqNo .mbr-timeline-text {
+  color: #000000;
 }
